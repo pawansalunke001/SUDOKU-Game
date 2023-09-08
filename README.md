@@ -29,13 +29,22 @@ Language Used : Java (Project is build on Java Swing Library)
  - Download the [setup file ⬇️](https://github.com//Sudoku-Game/releases/download/1.0.0/sudoku-game-setup.exe) and run the setup file.
 
 ### Some Screenshots of the game
-- Starting Screen
-- ![Screenshot 2023-06-24 154706](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/00b88d86-b803-4d3d-b23c-429f3a4daf4a)
-- Results after Checking Solution!
-- ![Screenshot 2023-06-24 154814](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/b7d2f9c6-6f41-4992-9dc6-4bc97c2387c2)
-- Results after Checking Moves!
-- ![Screenshot 2023-06-24 154800](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/5c5af7fe-90da-44e2-a73d-64e2988bfb1c)
-- When Pressed Reset Button
-- ![Screenshot 2023-06-24 154834](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/7ead895e-b581-4e31-b2ba-617719ea2fee)
-- When pressed Exit Button
-- ![Screenshot 2023-06-24 154854](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/2d417098-04f1-403e-990c-6afb8d03b266)
+- Starting Screen                                 
+![Screenshot (72)](https://github.com/pawansalunke001/SUDOKU-Game/assets/133101693/d8ae52a8-5049-4f8d-8e53-2b3870c1b131)
+
+
+- Results after Checking Solution                         
+![Screenshot (73)](https://github.com/pawansalunke001/SUDOKU-Game/assets/133101693/b54a42aa-c28e-4683-b2b2-dd360412e6bd)
+
+
+- Results after Checking Moves                          
+![Screenshot (74)](https://github.com/pawansalunke001/SUDOKU-Game/assets/133101693/7e30cff4-d8dd-45c3-8bb7-daee6d32d19e)
+
+
+- When Pressed Reset Button             
+![Screenshot (75)](https://github.com/pawansalunke001/SUDOKU-Game/assets/133101693/af8a1804-3860-474c-9738-16d4b1b9d5ec)
+
+
+- When pressed Exit Button                      
+![Screenshot (76)](https://github.com/pawansalunke001/SUDOKU-Game/assets/133101693/d5801737-51f4-4617-8e85-614f61681d93)
+
