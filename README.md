@@ -30,11 +30,11 @@ Language Used : Java (Project is build on Java Swing Library)
 
 ### Some Screenshots of the game
 - Starting Screen
-- ![Screenshot 2023-06-24 154706](https://github.com//Sudoku-Game/assets/117599205/00b88d86-b803-4d3d-b23c-429f3a4daf4a)
+- ![Screenshot 2023-06-24 154706](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/00b88d86-b803-4d3d-b23c-429f3a4daf4a)
 - Results after Checking Solution!
-- ![Screenshot 2023-06-24 154814](https://github.com//Sudoku-Game/assets/117599205/b7d2f9c6-6f41-4992-9dc6-4bc97c2387c2)
+- ![Screenshot 2023-06-24 154814](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/b7d2f9c6-6f41-4992-9dc6-4bc97c2387c2)
 - Results after Checking Moves!
-- ![Screenshot 2023-06-24 154800](https://github.com//Sudoku-Game/assets/117599205/5c5af7fe-90da-44e2-a73d-64e2988bfb1c)
+- ![Screenshot 2023-06-24 154800](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/5c5af7fe-90da-44e2-a73d-64e2988bfb1c)
 - When Pressed Reset Button
 - ![Screenshot 2023-06-24 154834](https://github.com/meetgovindbajaj/Sudoku-Game/assets/117599205/7ead895e-b581-4e31-b2ba-617719ea2fee)
 - When pressed Exit Button
